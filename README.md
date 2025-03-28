@@ -1,6 +1,6 @@
 # OpenWebUI Bulk Model Updater
 
-![alt text](image.png)
+![alt text](utility.png)
 
 This repository contains Python scripts for updating model configurations in bulk within OpenWebUI.
 
